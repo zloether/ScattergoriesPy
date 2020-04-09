@@ -23,7 +23,7 @@ buzzer = os.path.join(app_path, 'buzzer.mp3')
 # defaults
 num_rounds = 12
 per_round = 12
-timer = 10
+timer = 3 * 60
 
 
 # -----------------------------------------------------------------------------
