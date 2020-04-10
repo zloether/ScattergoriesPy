@@ -19,11 +19,13 @@ app_path = os.path.dirname(os.path.realpath(__file__))
 categories_file_name = 'categories.md'
 categories_file = os.path.join(app_path, categories_file_name)
 buzzer = os.path.join(app_path, 'buzzer.mp3')
+tick = os.path.join(app_path, 'tick.mp3')
+alphabet = 'ABCDEFGHIJKLMNOPRSTW'
 
 # defaults
 num_rounds = 12
 per_round = 12
-timer = 10
+timer = 3 * 60
 
 
 # -----------------------------------------------------------------------------
@@ -33,14 +35,34 @@ def play(categories_file=categories_file, num_rounds=num_rounds, per_round=per_r
     
     # get list of categories to use for this game
     categories_for_game = generate_categories_list(categories_file, num_rounds, per_round)
+
+    letters_for_game = []
+    for letter in alphabet:
+        letters_for_game.append(letter)
     
     current_round = 1
 
     while current_round <= num_rounds:
+
+        # clear the screen
         os.system('clear')
+
+        # print the round we're in
         print('ROUND #' + str(current_round))
+
+        # get a random letter for this round
+        letter = letters_for_game.pop(random.randrange(0, len(letters_for_game)-1))
+
+        # tell the players their letter for this round
+        print('Letter: ' + str(letter))
+
+        # lets play!
         play_round(categories_for_game)
+        
+        # lets players score the round before continuing
         input('Press ENTER to continue')
+        
+        # increment round counter
         current_round += 1
         
 
@@ -80,14 +102,17 @@ def run_timer(timer=timer):
             if time_left % 5 == 0:
                 sys.stdout.write('...' + str(time_left))
                 sys.stdout.flush()
+                playsound.playsound(tick)
         
         elif time_left <= 10:
             sys.stdout.write('...' + str(time_left))
             sys.stdout.flush()
+            playsound.playsound(tick)
         
         elif time_left % 30 == 0:
             sys.stdout.write('...' + str(time_left))
             sys.stdout.flush()
+            playsound.playsound(tick)
 
 
         time_left -= 1
