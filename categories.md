@@ -35,12 +35,10 @@ Things in the circus
 Things found in a park
 Types of cats
 Book authors
-Countries
 Things that are round
 Types of clothing
 Games played at recess
 Mammals
-Countries
 Types of relatives
 Holidays around the world
 Fruits
@@ -78,8 +76,6 @@ Things found on a farm
 Fears
 Sweet things
 Dental procedures
-Perfumes
-Types off candy
 Accessories
 Things used by the handicapped
 Sounds animals make
@@ -112,11 +108,8 @@ Magazines
 State capitals
 Things with tails
 Crimes
-Vanilla items
-Types of popcorn
 Large ticket items
 Items in Grandma's kitchen
-Dog toys
 Items found in the backyard
 Sticky things
 Awards
@@ -132,7 +125,7 @@ Monthly expenses
 Things found at a construction site
 Pet name
 Toy
-At the Home Depot
+At the Home Depotirds
 Something you buy used
 Game
 Clothing company
@@ -147,11 +140,7 @@ Quick Animals
 Amphibians
 Fish
 Slow Animals
-Animal Homes
-Breeds Of Cat
-Animals Which Have a Specific Color
 Birds
-Animals Which Jump / Hop
 Dangerous Animals
 Animals Which Dwell Underground
 Breeds of Dogs
@@ -159,14 +148,6 @@ Arctic Animals
 Pets
 Farm Animals
 Reptiles
-Disney Princesses
-Disney Prince
-Disney Movies
-Disney Cartoon Characters
-Disney Television Shows
-Disney Television Characters
-Disney Songs
-Disney Classics
 Halloween Costumes
 Men’s Clothing
 Women’s Clothing
@@ -181,13 +162,11 @@ Hot Places
 Sales Terms
 Medical Terms
 Terms Relating Teachers
-Diseases
 Legal Terms
 Medicine Names
 Study Areas
 Nursing Terms
 Office Items
-Disney Shows
 Cooking Shows
 Reality Television
 Music Programs
@@ -203,10 +182,7 @@ Romantic Movies
 Movie actresses
 Comedy Movies
 Blockbusters
-Disney Movies
-Star Wars
-James Bond
-The Hunger Games
+Disney
 Classic Movies
 Twilight related
 Harry Potter Movies
@@ -227,7 +203,6 @@ Italian Food
 Meals for Breakfast
 Cookies
 Cheese Types
-Candy
 Cake Types
 Flavors of Ice cream
 Pies
@@ -241,11 +216,7 @@ Gourmet Foods
 Junk Food
 Donuts
 Fast Food Brand Names
-Capital Cities in Europe
-Countries in Africa
-Cities in Asia
-Countries in Europe
-State Capitals in the United States
+Capital Cities
 Countries
 Related to the Olympics
 Outdoor Sports
@@ -274,7 +245,6 @@ Things That Given as Gifts
 Things That Are Made From Glass
 Things That Are Round
 Things That Are Made From Plastic
-Things That Are of a Specific Color
 Things That Are Made From Wood
 Things That Are Scary
 Things That Have Wheels
@@ -285,7 +255,6 @@ Things That Have Stripes
 Things That Are Hard
 Things That Are Fragile
 Things That Have Wings
-Things That You May Find at a Circus
 Things That People Generally Lose
 Things That You May Find at a School
 Things That Get Bad After Some Time
