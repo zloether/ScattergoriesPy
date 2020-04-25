@@ -22,7 +22,6 @@ Types of birds
 Flowers
 Types of shoes
 Halloween costumes
-Foods found in a submarine
 Politicians
 Flavors of ice cream
 Reasons a child is grounded
@@ -110,7 +109,6 @@ Crimes
 Large ticket items
 Items in Grandma's kitchen
 Items found in the backyard
-Sticky things
 Awards
 Types of vehicles
 Herbs
