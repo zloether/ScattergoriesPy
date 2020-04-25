@@ -1,6 +1,6 @@
 Old-fashioned boy's name
 Items that are frozen
-Television shows from 2000
+Television shows
 Rivers
 Vegetables
 Things that are yellow
@@ -44,7 +44,6 @@ Holidays around the world
 Fruits
 Things found in a forest
 Colors
-Sports stars
 Restaurants
 Villains
 Toys
@@ -64,7 +63,7 @@ Someplace you want to visit
 Frozen food
 Occupation
 Name brand
-Restaurant
+Things you order at a restaurant
 Chistmastime
 Things at a theme park
 School supplies
@@ -176,7 +175,6 @@ Cartoon Network
 Prime Time Television
 Science Fiction Movies
 Horror Movies
-Rom-Coms
 Movie actors
 Romantic Movies
 Movie actresses
@@ -185,7 +183,7 @@ Blockbusters
 Disney
 Classic Movies
 Twilight related
-Harry Potter Movies
+Harry Potter
 Fantasy movies
 Beverages
 Spices
@@ -219,21 +217,15 @@ Fast Food Brand Names
 Capital Cities
 Countries
 Related to the Olympics
-Outdoor Sports
-Water Sports
-Indoor Sports
 Famous sports players
-Popular Games
 Sports Terms
-Single Player Games
-Team Sports
+Board Games
+Sports teams
 Things That Make You Itch
 Things That Are Cold
-Things That Have Spikes
 Things That Are Flat
 Things That Are Flexible
 Things That Have Spots
-Things That Are Square
 Things That Can Be Used As Drugs
 Things That Are Sticky
 Things That You May Find in a Medical Store
@@ -241,11 +233,8 @@ Things That Are Cheap
 Things That You May Find in a Park
 Things That Are Used by Kids
 Things That Are in the Sky
-Things That Given as Gifts
-Things That Are Made From Glass
+Terrible gifts
 Things That Are Round
-Things That Are Made From Plastic
-Things That Are Made From Wood
 Things That Are Scary
 Things That Have Wheels
 Things That Are Expensive
@@ -261,3 +250,10 @@ Things That Get Bad After Some Time
 Things That You May Find at a Hospital
 Things That Have a Great Smell
 Things That You May Find at a Superstore
+Taco ingredients
+National Parks
+Euphamisms for body parts
+Types of sauces for food
+Comic book characters
+Related to dancing
+Names only a mother could love
